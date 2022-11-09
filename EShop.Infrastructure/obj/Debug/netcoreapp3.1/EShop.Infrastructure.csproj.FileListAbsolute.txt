@@ -1,0 +1,10 @@
+C:\Users\mdsumon.mia\Desktop\AspNet\EShop\EShop.Infrastructure\bin\Debug\netcoreapp3.1\EShop.Infrastructure.deps.json
+C:\Users\mdsumon.mia\Desktop\AspNet\EShop\EShop.Infrastructure\bin\Debug\netcoreapp3.1\EShop.Infrastructure.dll
+C:\Users\mdsumon.mia\Desktop\AspNet\EShop\EShop.Infrastructure\bin\Debug\netcoreapp3.1\EShop.Infrastructure.pdb
+C:\Users\mdsumon.mia\Desktop\AspNet\EShop\EShop.Infrastructure\obj\Debug\netcoreapp3.1\EShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mdsumon.mia\Desktop\AspNet\EShop\EShop.Infrastructure\obj\Debug\netcoreapp3.1\EShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdsumon.mia\Desktop\AspNet\EShop\EShop.Infrastructure\obj\Debug\netcoreapp3.1\EShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mdsumon.mia\Desktop\AspNet\EShop\EShop.Infrastructure\obj\Debug\netcoreapp3.1\EShop.Infrastructure.AssemblyInfo.cs
+C:\Users\mdsumon.mia\Desktop\AspNet\EShop\EShop.Infrastructure\obj\Debug\netcoreapp3.1\EShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mdsumon.mia\Desktop\AspNet\EShop\EShop.Infrastructure\obj\Debug\netcoreapp3.1\EShop.Infrastructure.dll
+C:\Users\mdsumon.mia\Desktop\AspNet\EShop\EShop.Infrastructure\obj\Debug\netcoreapp3.1\EShop.Infrastructure.pdb
